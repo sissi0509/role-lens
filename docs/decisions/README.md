@@ -20,3 +20,4 @@ Each record answers:
 | [005](005-gather-in-rounds-with-funnel.md) | Gather postings in rounds through a relevance funnel, storing as it goes |
 | [006](006-agents-only-where-next-step-depends-on-results.md) | Use an agent only where the next step depends on what was found |
 | [007](007-extraction-based-chunking.md) | One LLM extraction per posting, with one requirement per vector |
+| [008](008-shared-postings-with-versioned-extractions.md) | Store each posting once, version its extractions, and link runs to what they used (partly supersedes 003) |
